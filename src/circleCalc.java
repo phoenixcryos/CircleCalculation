@@ -53,11 +53,11 @@ public class circleCalc {
             System.out.println("The diameter of the circle is: " + diameter);//diameter output
 
 
-                    input.close();
+input.close();
 
-
-                }
 
             }
-        }
+
+    }
+}
 
